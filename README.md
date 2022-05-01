@@ -62,3 +62,12 @@ npm run dev ou yarn dev
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com :purple_heart: by [Diogo Marques](https://github.com/DiogoAMV)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diogo%20Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogomarques/)](https://www.linkedin.com/in/diogo-marques-719950221/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato.diogoamv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.diogoamv@gmail.com)](mailto:contato.diogoamv@gmail.com)
+
+
